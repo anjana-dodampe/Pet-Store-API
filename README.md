@@ -3,7 +3,7 @@
 This is an implementation of a Pet Store API which will be consumed by the
 front-end developers for developing the Pet-Store web-application. Quarkus is used as MicroProfile.io runtime environment.
 
-## Packaging and running the application
+## How to build the API
 
 If you want to build an _??ber-jar_, execute the following command:
 
